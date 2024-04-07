@@ -1,0 +1,312 @@
+G:\repos\WebApplication1\obj\Debug\net8.0\Ecommerce.Web.csproj.AssemblyReference.cache
+G:\repos\WebApplication1\obj\Debug\net8.0\Ecommerce.Web.Core.Resources.GeneralResource.resources
+G:\repos\WebApplication1\obj\Debug\net8.0\Ecommerce.Web.csproj.GenerateResource.cache
+G:\repos\WebApplication1\obj\Debug\net8.0\Ecommerce.Web.GeneratedMSBuildEditorConfig.editorconfig
+G:\repos\WebApplication1\obj\Debug\net8.0\Ecommerce.Web.AssemblyInfoInputs.cache
+G:\repos\WebApplication1\obj\Debug\net8.0\Ecommerce.Web.AssemblyInfo.cs
+G:\repos\WebApplication1\obj\Debug\net8.0\Ecommerce.Web.csproj.CoreCompileInputs.cache
+G:\repos\WebApplication1\obj\Debug\net8.0\Ecommerce.Web.MvcApplicationPartsAssemblyInfo.cs
+G:\repos\WebApplication1\obj\Debug\net8.0\Ecommerce.Web.MvcApplicationPartsAssemblyInfo.cache
+G:\repos\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+G:\repos\WebApplication1\bin\Debug\net8.0\appsettings.json
+G:\repos\WebApplication1\bin\Debug\net8.0\Ecommerce.Web.staticwebassets.runtime.json
+G:\repos\WebApplication1\bin\Debug\net8.0\Ecommerce.Web.exe
+G:\repos\WebApplication1\bin\Debug\net8.0\Ecommerce.Web.deps.json
+G:\repos\WebApplication1\bin\Debug\net8.0\Ecommerce.Web.runtimeconfig.json
+G:\repos\WebApplication1\bin\Debug\net8.0\Ecommerce.Web.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Ecommerce.Web.pdb
+G:\repos\WebApplication1\bin\Debug\net8.0\AutoMapper.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Azure.Core.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Azure.Identity.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Castle.Core.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\SixLabors.ImageSharp.Web.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\System.CodeDom.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\System.Memory.Data.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Ecommerce.Domain.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Ecommerce.Infrastracture.dll
+G:\repos\WebApplication1\bin\Debug\net8.0\Ecommerce.Infrastracture.pdb
+G:\repos\WebApplication1\bin\Debug\net8.0\Ecommerce.Domain.pdb
+G:\repos\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+G:\repos\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+G:\repos\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.Ecommerce.Web.Microsoft.AspNetCore.StaticWebAssets.props
+G:\repos\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.Ecommerce.Web.props
+G:\repos\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce.Web.props
+G:\repos\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ecommerce.Web.props
+G:\repos\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+G:\repos\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\Ecommerce.Web.styles.css
+G:\repos\WebApplication1\obj\Debug\net8.0\Ecommerce.Web.csproj.CopyComplete
+G:\repos\WebApplication1\obj\Debug\net8.0\Ecommerce.Web.dll
+G:\repos\WebApplication1\obj\Debug\net8.0\refint\Ecommerce.Web.dll
+G:\repos\WebApplication1\obj\Debug\net8.0\Ecommerce.Web.pdb
+G:\repos\WebApplication1\obj\Debug\net8.0\Ecommerce.Web.genruntimeconfig.cache
+G:\repos\WebApplication1\obj\Debug\net8.0\ref\Ecommerce.Web.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\appsettings.json
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Ecommerce.Web.staticwebassets.runtime.json
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Ecommerce.Web.exe
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Ecommerce.Web.deps.json
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Ecommerce.Web.runtimeconfig.json
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Ecommerce.Web.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Ecommerce.Web.pdb
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Humanizer.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\SixLabors.ImageSharp.Web.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Ecommerce.Domain.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Ecommerce.Infrastracture.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Ecommerce.Infrastracture.pdb
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\bin\Debug\net8.0\Ecommerce.Domain.pdb
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\obj\Debug\net8.0\Ecommerce.Web.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\obj\Debug\net8.0\Ecommerce.Web.Core.Resources.GeneralResource.resources
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\obj\Debug\net8.0\Ecommerce.Web.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\obj\Debug\net8.0\Ecommerce.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\obj\Debug\net8.0\Ecommerce.Web.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\obj\Debug\net8.0\Ecommerce.Web.AssemblyInfo.cs
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\obj\Debug\net8.0\Ecommerce.Web.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\obj\Debug\net8.0\Ecommerce.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\obj\Debug\net8.0\Ecommerce.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\obj\Debug\net8.0\staticwebassets\msbuild.Ecommerce.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Ecommerce.Web.props
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce.Web.props
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ecommerce.Web.props
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\obj\Debug\net8.0\scopedcss\bundle\Ecommerce.Web.styles.css
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\obj\Debug\net8.0\Ecommerce.Web.csproj.CopyComplete
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\obj\Debug\net8.0\Ecommerce.Web.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\obj\Debug\net8.0\refint\Ecommerce.Web.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\obj\Debug\net8.0\Ecommerce.Web.pdb
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\obj\Debug\net8.0\Ecommerce.Web.genruntimeconfig.cache
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Web\obj\Debug\net8.0\ref\Ecommerce.Web.dll

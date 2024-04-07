@@ -1,0 +1,34 @@
+G:\repos\Ecommerce.Infrastracture\bin\Debug\net8.0\Ecommerce.Infrastracture.deps.json
+G:\repos\Ecommerce.Infrastracture\bin\Debug\net8.0\Ecommerce.Infrastracture.dll
+G:\repos\Ecommerce.Infrastracture\bin\Debug\net8.0\Ecommerce.Infrastracture.pdb
+G:\repos\Ecommerce.Infrastracture\bin\Debug\net8.0\Ecommerce.Domain.dll
+G:\repos\Ecommerce.Infrastracture\bin\Debug\net8.0\Ecommerce.Domain.pdb
+G:\repos\Ecommerce.Infrastracture\obj\Debug\net8.0\Ecommerce.Infrastracture.csproj.AssemblyReference.cache
+G:\repos\Ecommerce.Infrastracture\obj\Debug\net8.0\Ecommerce.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+G:\repos\Ecommerce.Infrastracture\obj\Debug\net8.0\Ecommerce.Infrastracture.AssemblyInfoInputs.cache
+G:\repos\Ecommerce.Infrastracture\obj\Debug\net8.0\Ecommerce.Infrastracture.AssemblyInfo.cs
+G:\repos\Ecommerce.Infrastracture\obj\Debug\net8.0\Ecommerce.Infrastracture.csproj.CoreCompileInputs.cache
+G:\repos\Ecommerce.Infrastracture\obj\Debug\net8.0\Ecommerce.Infrastracture.csproj.CopyComplete
+G:\repos\Ecommerce.Infrastracture\obj\Debug\net8.0\Ecommerce.Infrastracture.dll
+G:\repos\Ecommerce.Infrastracture\obj\Debug\net8.0\refint\Ecommerce.Infrastracture.dll
+G:\repos\Ecommerce.Infrastracture\obj\Debug\net8.0\Ecommerce.Infrastracture.pdb
+G:\repos\Ecommerce.Infrastracture\obj\Debug\net8.0\ref\Ecommerce.Infrastracture.dll
+G:\repos\Ecommerce.Infrastracture\bin\Debug\net8.0\Ecommerce.Infrastracture.runtimeconfig.json
+G:\repos\Ecommerce.Infrastracture\obj\Debug\net8.0\Ecommerce.Infrastracture.genruntimeconfig.cache
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Infrastracture\bin\Debug\net8.0\Ecommerce.Infrastracture.deps.json
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Infrastracture\bin\Debug\net8.0\Ecommerce.Infrastracture.runtimeconfig.json
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Infrastracture\bin\Debug\net8.0\Ecommerce.Infrastracture.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Infrastracture\bin\Debug\net8.0\Ecommerce.Infrastracture.pdb
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Infrastracture\bin\Debug\net8.0\Ecommerce.Domain.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Infrastracture\bin\Debug\net8.0\Ecommerce.Domain.pdb
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Infrastracture\obj\Debug\net8.0\Ecommerce.Infrastracture.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Infrastracture\obj\Debug\net8.0\Ecommerce.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Infrastracture\obj\Debug\net8.0\Ecommerce.Infrastracture.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Infrastracture\obj\Debug\net8.0\Ecommerce.Infrastracture.AssemblyInfo.cs
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Infrastracture\obj\Debug\net8.0\Ecommerce.Infrastracture.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Infrastracture\obj\Debug\net8.0\Ecommerce.Infrastracture.csproj.CopyComplete
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Infrastracture\obj\Debug\net8.0\Ecommerce.Infrastracture.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Infrastracture\obj\Debug\net8.0\refint\Ecommerce.Infrastracture.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Infrastracture\obj\Debug\net8.0\Ecommerce.Infrastracture.pdb
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Infrastracture\obj\Debug\net8.0\Ecommerce.Infrastracture.genruntimeconfig.cache
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Infrastracture\obj\Debug\net8.0\ref\Ecommerce.Infrastracture.dll

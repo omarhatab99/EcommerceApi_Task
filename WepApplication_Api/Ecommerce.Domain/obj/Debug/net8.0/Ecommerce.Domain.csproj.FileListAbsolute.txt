@@ -1,0 +1,24 @@
+G:\repos\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\repos\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.AssemblyInfoInputs.cache
+G:\repos\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.AssemblyInfo.cs
+G:\repos\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.csproj.CoreCompileInputs.cache
+G:\repos\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.csproj.AssemblyReference.cache
+G:\repos\Ecommerce.Domain\bin\Debug\net8.0\Ecommerce.Domain.deps.json
+G:\repos\Ecommerce.Domain\bin\Debug\net8.0\Ecommerce.Domain.dll
+G:\repos\Ecommerce.Domain\bin\Debug\net8.0\Ecommerce.Domain.pdb
+G:\repos\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.dll
+G:\repos\Ecommerce.Domain\obj\Debug\net8.0\refint\Ecommerce.Domain.dll
+G:\repos\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.pdb
+G:\repos\Ecommerce.Domain\obj\Debug\net8.0\ref\Ecommerce.Domain.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Domain\bin\Debug\net8.0\Ecommerce.Domain.deps.json
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Domain\bin\Debug\net8.0\Ecommerce.Domain.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Domain\bin\Debug\net8.0\Ecommerce.Domain.pdb
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.AssemblyInfo.cs
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Domain\obj\Debug\net8.0\refint\Ecommerce.Domain.dll
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.pdb
+C:\Users\user\OneDrive\سطح المكتب\Assignment\WepApplication_Api\Ecommerce.Domain\obj\Debug\net8.0\ref\Ecommerce.Domain.dll
